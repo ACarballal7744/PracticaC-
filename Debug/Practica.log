@@ -1,0 +1,5 @@
+﻿  listaDeItPatagonia.cpp
+  main.cpp
+  Generando código...
+C:\Users\Alan\source\repos\Practica\Practica\listaDeItPatagonia.h(40): warning C4715: 'listaDeItPatagonia::buscarPrimeraNombre': no todas las rutas de acceso de control devuelven un valor
+  Practica.vcxproj -> C:\Users\Alan\source\repos\Practica\Debug\Practica.exe
